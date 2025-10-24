@@ -1,5 +1,5 @@
 # SMAT: Semi-automatic Merge–Split Annotation Tool
-> A GUI tool for anomaly-centric video annotation with YOLO + SAM2 + XMem++ and an automatic Merge–Split mechanism.
+> A GUI tool for anomaly-centric video annotation with YOLO + [SAM2](https://github.com/facebookresearch/sam2) + [XMem++](https://github.com/mbzuai-metaverse/XMem2) and an automatic Merge–Split mechanism.
 
 ## Features  
 - YOLO detection → SAM2 segmentation → XMem++ tracking  
