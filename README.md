@@ -1,4 +1,11 @@
-# Semi-Automatic Merge-SPlit Annotation Tool (SMAT)
+# SMAT: Semi-automatic Merge–Split Annotation Tool
+> A GUI tool for anomaly-centric video annotation with YOLO + SAM2 + XMem++ and an automatic Merge–Split mechanism.
+
+## Features  
+- YOLO detection → SAM2 segmentation → XMem++ tracking  
+- Automatic **Merge–Split** for interaction (group-level) boxes  
+- Export: structured **TXT** + overlay **MP4**  
+
 <img src="https://github.com/ggamangpro101/semi-automatic-merge-split-annotation-tool/blob/master/images/annotation_tool.png" height="80%"/>
 
 This repository demonstrates Semi-Automatic Merge-Split Annotation Tool (SMAT).  
